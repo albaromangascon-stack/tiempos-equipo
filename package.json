@@ -1,0 +1,13 @@
+{
+  "name": "tiempos-equipo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Herramienta sencilla para medir el tiempo de tu equipo por cliente y proyecto.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.40.0"
+  }
+}
